@@ -1,6 +1,6 @@
 # Assignment---Data-Modeling
 
-Problem Statement:
+**Problem Statement:**
 You work as a Power BI Developer in a leading software company. As a BI professional, you are asked to explore ways in which AdventureWorks can empower business and build a report based on sales. You have been asked to:
 a) In Power BI Desktop, connect to AdventureWorks Sales Data.xlsx
 b) Import DimCurrency, DimCustomer, DimDate, DimProduct, DimPromotion, DimSalesTerritory, and FactInternetSales worksheets
